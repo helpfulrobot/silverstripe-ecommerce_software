@@ -1,0 +1,42 @@
+li.infoItem {font-size: 0.77em; clear: left;}
+li.infoItem.moduleList {margin-top: 0.77em; margin-bottom: 0.77em;}
+li.infoItem span { }
+li.infoItem span.label {font-weight: bold;}
+li.infoItem span.value {}
+
+
+/* group */
+.moreInfoLink {font-weight: bold; text-transform: lowercase;}
+.explanation {font-size: 0.77em; }
+	.explanation p.shortIntro {}
+	.explanation p.more {}
+.tags {font-size: 0.77em;}
+.tags .current, #SidebarModuleProductGroupTags a.current {font-size: 1.23em; color: #317010;}
+.loading form input.text{background-image: url("/ecommerce/images/loading.gif");background-position: bottom right; background-repeat: no-repeat;}
+.loading form input.action{display: none;}
+.notReadyToSearch {color: #ccc;}
+#Quantity {display: none;}
+
+.authorHeading{width: 16px; height: 16px; display: inline-block; background-image: url(/ecommerce_software/images/author.png); text-indent: -3000px; }
+.tagHeading{width: 16px; height: 16px; display: inline-block; background-image: url(/ecommerce_software/images/tag.png); text-indent: -3000px; }
+
+p.source {font-size: 50%; margin-top: 0px; padding-top:0px; margin-bottom: 1em; }
+
+h3.moduleH3, #EcommerceProductTags h3 {padding-top: 1.3em!important;margin-top:0!important;}
+
+.variationsTable {font-size: 10px}
+td.label {text-align: left!important;}
+
+#ReadMeHolder {border-left: 5px solid #808383; padding-left: 5px;}
+
+#AddingModuleProduct_Form_Form input[type='text'], #AddingModuleProduct_Form_Form textarea {width: 98%; font-size: 0.77em; padding: 0.3em 0;}
+
+.tagList li {font-size: 0.77em;}
+
+#AddingModuleProduct_Form_Form p.checkbox label.right {width: auto;}
+
+.loading input {background: url('/ecommerce/images/loading.gif') no-repeat top left transparent;}
+
+.productList {padding-left: 0px!important; margin-left: 0px!important;}
+.productList li {list-style-image: none; padding-left: 0px!important; margin-left: 0px!important}
+ul.checkboxsetfield {-moz-column-width: 10em!important; column-width: 10em!important; -webkit-column-width: 10em!important;}
